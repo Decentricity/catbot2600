@@ -1,9 +1,9 @@
 # catbot2600
 The bot that generates weird cats and gives them descriptions. 
 
-Uses:
+Uses: 
 
-https://github.com/galaxykate/tracery/blob/master/js/tracery.min.js
+https://github.com/Decentricity/tracery
 
 https://thecatapi.com/
 
